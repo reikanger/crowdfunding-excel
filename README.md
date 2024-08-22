@@ -1,4 +1,4 @@
-# homework1
+# Crowdfunding Data Excel Analysis
 
 Contents of repository:
 - CrowdfundingBook.xlsx - Contains the data, pivot tables, and visualizations.
